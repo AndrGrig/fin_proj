@@ -20,7 +20,7 @@ variable "key_name" {
 }
 
 variable "bucket_name" {
-  default = "my-photos-bucket"
+  default = "my-dj-photos-bucket"
   description = "Name of the S3 bucket to store UI photos"
 }
 
